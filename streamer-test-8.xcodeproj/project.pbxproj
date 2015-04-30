@@ -492,6 +492,7 @@
 				90783B671AF12C5100987B8A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		90783B681AF12C5100987B8A /* Build configuration list for PBXNativeTarget "streamer-test-8Tests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +501,7 @@
 				90783B6A1AF12C5100987B8A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
